@@ -1,0 +1,92 @@
+body {
+
+  background-color: black;
+}
+
+h1,
+a,
+p  {
+
+  font-family: Verdana;
+}
+
+h1  {
+
+  color: white;
+  text-align: center;
+}
+
+a  {
+
+  color: Aquamarine;
+}
+
+p   {
+
+  color: Gray;
+  font-size: 21px;
+  font-weight: normal;
+}
+
+.header {
+
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+}
+
+.anchor {
+
+  color: Aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+
+
+.secondheader  {
+
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.thirdheader  {
+
+  font-weight: 300;
+  font-size: 42px
+}
+
+.secondanchor  {
+
+  color: Aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+
+.firsttext   {
+
+  font-size: 21px;
+  font-weight: normal;
+  text-align: center;
+}
+
+.video {
+
+  text-align: center;
+}
+
+.landscape {
+
+  text-align: center;
+}
+
+.icon {
+
+  text-align: center;
+}
+
+.footer    {
+
+  font-size: 21px;
+  font-weight: normal;
+  text-align: right;
+}
